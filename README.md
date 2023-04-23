@@ -1,4 +1,4 @@
-# IntroducaoaMachine - professor Caio
+# IntroducaoaMachine
 
 obs: olha esse site Kaggle
 
